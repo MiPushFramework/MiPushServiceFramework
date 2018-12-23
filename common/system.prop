@@ -1,0 +1,5 @@
+ro.miui.ui.version.name=V10
+ro.miui.ui.version.code=8
+ro.miui.version.code_time=1544025600
+ro.fota.oem=Xiaomi
+ro.miui.internal.storage=/sdcard/

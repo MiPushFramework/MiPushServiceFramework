@@ -1,0 +1,5 @@
+name=Mi Push Sercice Framework
+version=v0.3.6.20181130.7881203
+versionCode=266
+author=MlgmXyysd
+description=Add Mi Push Service Framework into system systemlessly. Change some props to fake miui. Kill official Xiaomi Service Framework. NOT include Push manager. Some features require Riru - Core installed.
